@@ -1,0 +1,77 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: false
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Catálogo"
+    files:
+      - name: "products"
+        label: "Productos"
+        file: "data/products.json"
+        fields:
+          - label: "Productos"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.category}}"
+            fields:
+              - { label: "ID (número único, no repetir)", name: "id", widget: "number", value_type: "int" }
+              - { label: "Nombre", name: "name", widget: "string" }
+              - label: "Categoría"
+                name: "category"
+                widget: "select"
+                options:
+                  - "Mates"
+                  - "Termos"
+                  - "Bombillas"
+                  - "Accesorios"
+                  - "Combos"
+              - { label: "Descripción", name: "desc", widget: "text" }
+              - { label: "Imagen / Foto", name: "image", widget: "image", required: false, choose_url: true }
+              - { label: "¿Hay stock?", name: "inStock", widget: "boolean", default: true, hint: "Desmarcá esto cuando se agote — el producto va a aparecer atenuado con la etiqueta 'Agotado' y no se va a poder comprar." }
+              - label: "Opciones (variante y precio)"
+                name: "options"
+                widget: "list"
+                summary: "{{fields.label}} — ${{fields.price}}"
+                fields:
+                  - { label: "Variante (ej: Unidad, Chico, Grande)", name: "label", widget: "string" }
+                  - { label: "Precio", name: "price", widget: "number" }
+
+  - name: "settings"
+    label: "Configuración general"
+    files:
+      - name: "settings"
+        label: "Configuración"
+        file: "data/settings.json"
+        fields:
+          - { label: "Logo (foto de perfil de la tienda)", name: "logoUrl", widget: "image", required: false }
+          - { label: "Número de WhatsApp (con código de país, sin +)", name: "whatsappNumber", widget: "string" }
+          - { label: "Alias de pago", name: "paymentAlias", widget: "string", required: false }
+          - { label: "CBU / CVU", name: "paymentCbu", widget: "string", required: false }
+          - { label: "Titular de la cuenta", name: "paymentTitular", widget: "string", required: false }
+
+          - label: "Categorías del catálogo"
+            name: "categories"
+            widget: "list"
+            field: { label: "Categoría", widget: "string" }
+
+          - label: "Preguntas frecuentes"
+            name: "faqs"
+            widget: "list"
+            summary: "{{fields.q}}"
+            fields:
+              - { label: "Pregunta", name: "q", widget: "string" }
+              - { label: "Respuesta", name: "a", widget: "text" }
+
+          - label: "Texto 'Sobre Sacha Mates' — primer párrafo"
+            name: "aboutText1"
+            widget: "text"
+
+          - label: "Texto 'Sobre Sacha Mates' — segundo párrafo"
+            name: "aboutText2"
+            widget: "text"

@@ -1,0 +1,22 @@
+{
+  "logoUrl": "images/uploads/sacha-mates-logo.jpg",
+  "whatsappNumber": "5493854813590",
+  "paymentAlias": "",
+  "paymentCbu": "",
+  "paymentTitular": "",
+  "categories": [
+    "Mates",
+    "Termos",
+    "Bombillas",
+    "Accesorios",
+    "Combos"
+  ],
+  "faqs": [
+    { "q": "¿Los productos son artesanales?", "a": "Sí, trabajamos con productos artesanales, cada pieza puede tener pequeñas variaciones que la hacen única." },
+    { "q": "¿Cómo hago mi pedido?", "a": "Agregá lo que quieras al carrito y al finalizar la compra se abre WhatsApp con el detalle armado para coordinar el pago y la entrega." },
+    { "q": "¿Qué medios de pago aceptan?", "a": "Coordinamos el medio de pago directamente por WhatsApp al confirmar tu pedido." },
+    { "q": "¿Hacen envíos?", "a": "[EDITÁ ESTE TEXTO] Sí, hacemos envíos dentro de Santiago del Estero Capital. Consultanos por zonas y costos." }
+  ],
+  "aboutText1": "Somos Sacha Mates, un emprendimiento de Santiago del Estero dedicado a la venta de mates, termos, bombillas y accesorios artesanales.",
+  "aboutText2": "Cada producto está pensado para acompañar tu día a día, con materiales de calidad y mucho cariño puesto en cada detalle."
+}

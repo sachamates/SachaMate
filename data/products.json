@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mate Imperial Cuero",
+      "category": "Mates",
+      "desc": "Mate artesanal forrado en cuero, con virola de alpaca. Pieza única.",
+      "image": "",
+      "inStock": true,
+      "options": [
+        { "label": "Unidad", "price": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Termo 1L Acero Inoxidable",
+      "category": "Termos",
+      "desc": "Termo de acero inoxidable, mantiene la temperatura por horas. Ideal para el día a día.",
+      "image": "",
+      "inStock": true,
+      "options": [
+        { "label": "Unidad", "price": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bombilla de Alpaca",
+      "category": "Bombillas",
+      "desc": "Bombilla artesanal de alpaca con filtro removible para fácil limpieza.",
+      "image": "",
+      "inStock": true,
+      "options": [
+        { "label": "Unidad", "price": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Repasador + Yerbera",
+      "category": "Accesorios",
+      "desc": "Set de repasador de algodón y yerbera de cerámica pintada a mano.",
+      "image": "",
+      "inStock": true,
+      "options": [
+        { "label": "Unidad", "price": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Combo Iniciación",
+      "category": "Combos",
+      "desc": "Mate + bombilla + yerbera, todo lo que necesitás para arrancar.",
+      "image": "",
+      "inStock": true,
+      "options": [
+        { "label": "Combo completo", "price": 0 }
+      ]
+    }
+  ]
+}
