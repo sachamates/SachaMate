@@ -58,7 +58,6 @@ collections:
           - label: "Categorías del catálogo"
             name: "categories"
             widget: "list"
-            field: { label: "Categoría", widget: "string" }
 
           - label: "Preguntas frecuentes"
             name: "faqs"
