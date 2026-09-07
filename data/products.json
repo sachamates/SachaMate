@@ -10,7 +10,15 @@
       "options": [
         {
           "label": "Unidad",
-          "price": 0
+          "price": 20000
+        },
+        {
+          "label": "Grande",
+          "price": 50000
+        },
+        {
+          "label": "Mediano",
+          "price": 15000
         }
       ]
     },
