@@ -5,10 +5,13 @@
       "name": "Mate Imperial Cuero",
       "category": "Mates",
       "desc": "Mate artesanal forrado en cuero, con virola de alpaca. Pieza única.",
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/004/940/197/products/img_3801-011e64483e97bdd1e717756844744494-480-0.webp",
       "inStock": true,
       "options": [
-        { "label": "Unidad", "price": 0 }
+        {
+          "label": "Unidad",
+          "price": 0
+        }
       ]
     },
     {
@@ -19,7 +22,10 @@
       "image": "",
       "inStock": true,
       "options": [
-        { "label": "Unidad", "price": 0 }
+        {
+          "label": "Unidad",
+          "price": 0
+        }
       ]
     },
     {
@@ -30,7 +36,10 @@
       "image": "",
       "inStock": true,
       "options": [
-        { "label": "Unidad", "price": 0 }
+        {
+          "label": "Unidad",
+          "price": 0
+        }
       ]
     },
     {
@@ -41,7 +50,10 @@
       "image": "",
       "inStock": true,
       "options": [
-        { "label": "Unidad", "price": 0 }
+        {
+          "label": "Unidad",
+          "price": 0
+        }
       ]
     },
     {
@@ -52,7 +64,10 @@
       "image": "",
       "inStock": true,
       "options": [
-        { "label": "Combo completo", "price": 0 }
+        {
+          "label": "Combo completo",
+          "price": 0
+        }
       ]
     }
   ]
