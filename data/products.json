@@ -2,23 +2,15 @@
   "products": [
     {
       "id": 1,
-      "name": "Mate Imperial Cuero",
+      "name": "Mate Imperial clasico",
       "category": "Mates",
-      "desc": "Mate artesanal forrado en cuero, con virola de alpaca. Pieza única.",
-      "image": "https://acdn-us.mitiendanube.com/stores/004/940/197/products/img_3801-011e64483e97bdd1e717756844744494-480-0.webp",
+      "desc": "Mate artesanal forrado en cuero, con virola de alpaca y fleje de alpaca. Pieza única.",
+      "image": "/images/uploads/1000967530.jpg",
       "inStock": true,
       "options": [
         {
-          "label": "Unidad",
-          "price": 20000
-        },
-        {
-          "label": "Grande",
-          "price": 50000
-        },
-        {
-          "label": "Mediano",
-          "price": 15000
+          "label": "unidad",
+          "price": 32000
         }
       ]
     },
@@ -40,13 +32,13 @@
       "id": 3,
       "name": "Bombilla de Alpaca",
       "category": "Bombillas",
-      "desc": "Bombilla artesanal de alpaca con filtro removible para fácil limpieza.",
-      "image": "",
+      "desc": "Bombilla artesanal de alpaca pico de loro",
+      "image": "/images/uploads/1000967546.jpg",
       "inStock": true,
       "options": [
         {
           "label": "Unidad",
-          "price": 0
+          "price": 7000
         }
       ]
     },
