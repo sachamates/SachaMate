@@ -24,15 +24,15 @@
     },
     {
       "id": 2,
-      "name": "Termo 1L Acero Inoxidable",
+      "name": "termo media manija 1L",
       "category": "Termos",
       "desc": "Termo de acero inoxidable, mantiene la temperatura por horas. Ideal para el día a día.",
-      "image": "",
+      "image": "/images/uploads/1000967524.jpg",
       "inStock": true,
       "options": [
         {
           "label": "Unidad",
-          "price": 0
+          "price": 29000
         }
       ]
     },
