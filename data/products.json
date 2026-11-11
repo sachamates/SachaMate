@@ -125,6 +125,34 @@
           "price": 48500
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 10,
+      "name": "imperial de algarrobo",
+      "category": "Mates",
+      "desc": "mate de algarrobo virola de acero inoxidable",
+      "image": "/images/uploads/img-20260529-wa0374.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 28000
+        }
+      ]
+    },
+    {
+      "inStock": false,
+      "id": 11,
+      "name": "mate ranchero",
+      "category": "Mates",
+      "desc": "mate ranchero de algarrobo pintado a mano",
+      "image": "/images/uploads/img-20260529-wa0347.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 33000
+        }
+      ]
     }
   ]
 }
