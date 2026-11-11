@@ -295,7 +295,7 @@
       ]
     },
     {
-      "inStock": true,
+      "inStock": false,
       "id": 22,
       "name": "torpedo de bronce",
       "category": "Mates",
