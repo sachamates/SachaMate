@@ -209,6 +209,34 @@
           "price": 55000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 16,
+      "name": "bombillon pico de loro",
+      "category": "Bombillas",
+      "desc": "bombillon pico de loro de alpaca y bronce",
+      "image": "/images/uploads/img-20260806-wa0081.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 30000
+        }
+      ]
+    },
+    {
+      "inStock": true,
+      "id": 17,
+      "name": "bombillon pico recto",
+      "category": "Bombillas",
+      "desc": "bombillon pico recto de alpaca y bronce",
+      "image": "/images/uploads/img-20260901-wa0054.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 30000
+        }
+      ]
     }
   ]
 }
