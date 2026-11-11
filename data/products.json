@@ -69,6 +69,20 @@
           "price": 19000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 6,
+      "name": "termo sistem 1lt",
+      "category": "Termos",
+      "desc": "termo sistem pico cebador acero inoxidale 1lt ",
+      "image": "/images/uploads/img-20260611-wa0024.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 42000
+        }
+      ]
     }
   ]
 }
