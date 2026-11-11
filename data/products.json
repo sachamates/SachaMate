@@ -55,6 +55,20 @@
           "price": 27500
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 5,
+      "name": "camionero criollo",
+      "category": "Mates",
+      "desc": "mate camionero criollo de calabaza con base de cuero crudo \n",
+      "image": "/images/uploads/img-20260529-wa0363-1-.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 19000
+        }
+      ]
     }
   ]
 }
