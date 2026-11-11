@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Mate Imperial clasico",
       "category": "Mates",
-      "desc": "Mate artesanal forrado en cuero, con virola de alpaca y fleje de alpaca. Pieza única.",
-      "image": "/images/uploads/1000967530.jpg",
+      "desc": "Mate artesanal forrado en cuero, con virola de acero y fleje de alpaca. Pieza única.",
+      "image": "/images/uploads/img-20260529-wa0149-1-.jpg",
       "inStock": true,
       "options": [
         {
@@ -29,44 +29,16 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Bombilla de Alpaca",
-      "category": "Bombillas",
-      "desc": "Bombilla artesanal de alpaca pico de loro",
-      "image": "/images/uploads/1000967546.jpg",
       "inStock": true,
+      "id": 1,
+      "name": "torpedo clasico",
+      "category": "Mates",
+      "desc": "mate torpedo de cuero vacuno con virola lisa de acero inoxidable interior de calabaza ",
+      "image": "/images/uploads/img-20260529-wa0186.jpg",
       "options": [
         {
-          "label": "Unidad",
-          "price": 7000
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Repasador + Yerbera",
-      "category": "Accesorios",
-      "desc": "Set de repasador de algodón y yerbera de cerámica pintada a mano.",
-      "image": "",
-      "inStock": true,
-      "options": [
-        {
-          "label": "Unidad",
-          "price": 0
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Combo Iniciación",
-      "category": "Combos",
-      "desc": "Mate + bombilla + yerbera, todo lo que necesitás para arrancar.",
-      "image": "",
-      "inStock": true,
-      "options": [
-        {
-          "label": "Combo completo",
-          "price": 0
+          "label": "unidad",
+          "price": 28000
         }
       ]
     }
