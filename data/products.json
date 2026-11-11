@@ -153,6 +153,62 @@
           "price": 33000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 12,
+      "name": "imperial de river",
+      "category": "Mates",
+      "desc": "mate imperial clasico con grabado laser de river plate PIEZA UNICA",
+      "image": "/images/uploads/img-20260602-wa0039.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 35000
+        }
+      ]
+    },
+    {
+      "inStock": false,
+      "id": 13,
+      "name": "canaste ecocuero",
+      "category": "Accesorios",
+      "desc": "canasta de ecocuero reforzada color negro",
+      "image": "/images/uploads/img-20260603-wa0124-1-.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 15500
+        }
+      ]
+    },
+    {
+      "inStock": false,
+      "id": 14,
+      "name": "canasta 100% cuero vacuno",
+      "category": "Accesorios",
+      "desc": "canaste 100% cuero vacuno reforzada color negro",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 49000
+        }
+      ],
+      "image": "/images/uploads/img-20260610-wa0015-1-.jpg"
+    },
+    {
+      "inStock": false,
+      "id": 15,
+      "name": "torpedo premium ",
+      "category": "Mates",
+      "desc": "torpedo premium virola cincelada cuero repujado con base bolitas de bronce color borravino",
+      "image": "/images/uploads/img-20260709-wa0126.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 55000
+        }
+      ]
     }
   ]
 }
