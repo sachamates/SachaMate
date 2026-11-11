@@ -279,6 +279,34 @@
           "price": 75000
         }
       ]
+    },
+    {
+      "inStock": false,
+      "id": 21,
+      "name": "combo  2",
+      "category": "Combos",
+      "desc": "incluye mate ranchero, termo media manija y canasta ecocuero",
+      "image": "/images/uploads/img-20260709-wa0459-1-.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 75000
+        }
+      ]
+    },
+    {
+      "inStock": true,
+      "id": 22,
+      "name": "torpedo de bronce",
+      "category": "Mates",
+      "desc": "mate torpedo repujado con virola de bronce cincelado",
+      "image": "/images/uploads/img-20260730-wa0052.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 38000
+        }
+      ]
     }
   ]
 }
