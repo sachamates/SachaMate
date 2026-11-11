@@ -237,6 +237,48 @@
           "price": 30000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 18,
+      "name": "imperial repujado cincelado",
+      "category": "Mates",
+      "desc": "mate imperial de calabaza con cuero repujado y virola de alpaca cincelada",
+      "image": "/images/uploads/img-20260727-wa0069-1-.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 39000
+        }
+      ]
+    },
+    {
+      "inStock": true,
+      "id": 19,
+      "name": "torpedo cincelado",
+      "category": "Mates",
+      "desc": "mate torpedo con virola de alpaca cincelada",
+      "image": "/images/uploads/img-20260730-wa0051.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 35000
+        }
+      ]
+    },
+    {
+      "inStock": true,
+      "id": 20,
+      "name": "combo 1",
+      "category": "Combos",
+      "desc": "incluye mate camionero, termo media manija, canasta ecocuero, bombilla de acero",
+      "image": "/images/uploads/img-20260913-wa0115.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 75000
+        }
+      ]
     }
   ]
 }
