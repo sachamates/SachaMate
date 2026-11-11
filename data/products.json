@@ -111,6 +111,20 @@
           "price": 32000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 9,
+      "name": "imperial premium cincelado",
+      "category": "Mates",
+      "desc": "imperial de calabaza virola de alpaca cincelada con base bolitas de bronce",
+      "image": "/images/uploads/img-20260527-wa0034.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 48500
+        }
+      ]
     }
   ]
 }
