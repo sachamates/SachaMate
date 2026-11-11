@@ -41,6 +41,20 @@
           "price": 28000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 4,
+      "name": "camionero clasico",
+      "category": "Mates",
+      "desc": "mate camionero de cuero vacuno virola de acero inoxidable interior de calabaza",
+      "image": "/images/uploads/img-20260529-wa0408-2-.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 27500
+        }
+      ]
     }
   ]
 }
