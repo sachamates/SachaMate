@@ -307,6 +307,24 @@
           "price": 38000
         }
       ]
+    },
+    {
+      "inStock": true,
+      "id": 23,
+      "name": "yerbera de cuerina",
+      "category": "Accesorios",
+      "desc": "yerbera de cuernina color negro de 500g",
+      "image": "/images/uploads/img-20260806-wa0090.jpg",
+      "options": [
+        {
+          "label": "unidad",
+          "price": 8000
+        },
+        {
+          "label": "dos",
+          "price": 15000
+        }
+      ]
     }
   ]
 }
